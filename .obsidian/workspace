@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "625bf2cca4678741",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b60a7fa1b4dce02",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "blog.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdbc40dea0729c03",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc31213798b78a3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5138a1cd36b72f7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ae701739d32d40e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "557298ceecb7e9b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "23270796dafc2501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b0ddc149c09187a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3b60a7fa1b4dce02",
+  "lastOpenFiles": [
+    "blog.md",
+    "about.md",
+    "index.md"
+  ]
+}
