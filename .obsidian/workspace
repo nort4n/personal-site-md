@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "post3.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "post3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "3b60a7fa1b4dce02",
   "lastOpenFiles": [
-    "about.md",
-    "blog.md",
-    "index.md",
+    "post3.md",
     "post2.md",
     "post1.md",
-    "post3.md"
+    "about.md",
+    "blog.md",
+    "index.md"
   ]
 }
